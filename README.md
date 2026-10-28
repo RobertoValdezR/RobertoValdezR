@@ -1,71 +1,18 @@
-<p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
-</p>
-
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
-
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
-
-<div size='20px'> Hi! My name is Roberto Valdez. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
-
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
-
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🔭 I’m currently working on im Student 
-  
-- 🌱 I’m currently learning Git, Java y GitHub
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: I like the loops
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
-
-
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-<br>
-<br>
-  <br>
-  
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
-
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-
-<br>
-
-
------
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
-
-Last Edited on: 04/09/2021
+<h1 align="center">Hi, I'm Roberto Valdez 👋</h1> <p align="center"> Software Engineering student · Web Development · QA & Testing · OSINT Research<br> 📍 Santo Domingo, Dominican Republic </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=RobertoValdezR&color=0e7c8b" alt="Profile views"> <a href="https://github.com/RobertoValdezR"><img src="https://img.shields.io/github/followers/RobertoValdezR?label=Follow&style=social" alt="GitHub followers"></a> </p>
+About me
+🎓 Software Engineering student (5th term) at UNICDA
+🔭 Building projects with C#, Python and JavaScript
+🌱 Currently learning .NET, SQL and CS50 (HarvardX)
+🧪 QA background: functional testing, usability testing and bug tracking
+🔍 Experience in OSINT research and information analysis
+💼 Open to opportunities in web development, QA and automation
+Tech stack
+<p> <img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,html,css,wordpress,git,github" alt="C#, .NET, Python, JavaScript, HTML, CSS, WordPress, Git, GitHub"> </p>
+Certifications
+Responsive Web Design — freeCodeCamp
+Foundational C# with Microsoft — freeCodeCamp & Microsoft Learn
+CS50: Introduction to Computer Science — HarvardX (in progress)
+GitHub stats
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=RobertoValdezR&show_icons=true&theme=tokyonight" alt="GitHub stats"> <img height="160" src="https://streak-stats.demolab.com/?user=RobertoValdezR&theme=tokyonight" alt="GitHub streak"> </p>
+Contact
+<p> <a href="mailto:robertoalejandrovaldezrodrigue@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/TU-USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
